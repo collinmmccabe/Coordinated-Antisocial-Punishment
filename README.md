@@ -1,2 +1,2 @@
 # coordinated_antisocial_punishment
-MATLAB code for McCabe &amp; Rand 2014 chapter on coordinated antisocial punishment games
+MATLAB code for [McCabe &amp; Rand 2014 book chapter](https://www.researchgate.net/publication/262970143_Coordinated_Punishment_Does_Not_Proliferate_When_Defectors_Can_Also_Punish_Cooperators) on coordinated antisocial punishment games
